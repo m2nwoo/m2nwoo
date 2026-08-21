@@ -1,18 +1,52 @@
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+<h1 align="center">안녕하세요, 권민우입니다 👋</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=m2nwoo&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=m2nwoo&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=m2nwoo&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  배우고 기록하며 꾸준히 성장하는 개발자입니다.
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://github.com/m2nwoo">GitHub</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=m2nwoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Education
+
+<p align="left">
+  <img src="./assets/dongyang-mirae-university-logo.png" alt="동양미래대학교 로고" width="44" />
+  <strong>동양미래대학교</strong><br/>
+  웹응용소프트웨어공학과(컴퓨터공학과) · 2026년 입학 · 1학년 재학 중
+</p>
+
+<p align="left">
+  <img src="./assets/semyung-computer-highschool-logo.png" alt="세명컴퓨터고등학교 로고" width="44" />
+  <strong>세명컴퓨터고등학교</strong><br/>
+  디바이스소프트웨어과 · 2026년 1월 졸업
+</p>
+
+---
+
+### Tech Stack
+
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-222222?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk)
+![C](https://img.shields.io/badge/C-222222?style=flat-square&logo=c)
+
+#### Markup & Style
+![HTML5](https://img.shields.io/badge/HTML5-222222?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-222222?style=flat-square&logo=css3)
+
+#### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-222222?style=flat-square&logo=amazonaws)
+![Figma](https://img.shields.io/badge/Figma-222222?style=flat-square&logo=figma)
+
+---
+
+### GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="49%" />
+  <img src="./github-metrics-isocalendar.svg" alt="GitHub Isocalendar" width="49%" />
+</p>

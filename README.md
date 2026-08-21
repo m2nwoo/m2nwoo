@@ -12,17 +12,24 @@
 
 ### Education
 
-<p align="left">
-  <img src="./assets/dongyang-mirae-university-logo.png" alt="동양미래대학교 로고" width="44" />
-  <strong>동양미래대학교</strong><br/>
-  웹응용소프트웨어공학과(컴퓨터공학과) · 2026년 입학 · 1학년 재학 중
-</p>
-
-<p align="left">
-  <img src="./assets/semyung-computer-highschool-logo.png" alt="세명컴퓨터고등학교 로고" width="44" />
-  <strong>세명컴퓨터고등학교</strong><br/>
-  디바이스소프트웨어과 · 2026년 1월 졸업
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/dongyang-mirae-university-logo.png" alt="동양미래대학교 로고" width="110" /><br/>
+      <strong>동양미래대학교</strong><br/>
+      <sub>웹응용소프트웨어공학과(컴퓨터공학과)</sub><br/>
+      <sub>2026년 입학 · 1학년 재학 중</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Status-Undergraduate%20Student-1f6feb?style=flat-square" alt="재학 중" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/semyung-computer-highschool-logo.png" alt="세명컴퓨터고등학교 로고" width="110" /><br/>
+      <strong>세명컴퓨터고등학교</strong><br/>
+      <sub>디바이스소프트웨어과</sub><br/>
+      <sub>2026년 1월 졸업</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Status-Graduated-2ea043?style=flat-square" alt="졸업" />
+    </td>
+  </tr>
+</table>
 
 ---
 

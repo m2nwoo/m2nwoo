@@ -4,10 +4,6 @@
   I am Kwon Minwoo, currently enrolled at Dongyang Mirae University, a first-year student in the Department of Web Application Software Engineering (Computer Engineering), and studying computer science I am steadily studying, growing, and preparing to get a job as a developer
 </p>
 
-<p align="center">
-  <a href="https://github.com/m2nwoo">GitHub</a>
-</p>
-
 ---
 
 ### Education

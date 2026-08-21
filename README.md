@@ -1,7 +1,7 @@
-<h1 align="center">안녕하세요, 권민우입니다 👋</h1>
+<h1 align="center">Kwon Minwoo</h1>
 
 <p align="center">
-  배우고 기록하며 꾸준히 성장하는 개발자입니다.
+  I am Kwon Minwoo, currently enrolled at Dongyang Mirae University, a first-year student in the Department of Web Application Software Engineering (Computer Engineering), and studying computer science I am steadily studying, growing, and preparing to get a job as a developer
 </p>
 
 <p align="center">
